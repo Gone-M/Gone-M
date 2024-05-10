@@ -16,22 +16,23 @@ When I'm not coding, you can find me hiking in the great outdoors 🌳, experime
 <div>
   <p>Programming Languages</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,python,bash,css,javascript,c#,cpp,php,typescript" alt="Programming Languages icons" />
+    <img src="https://skillicons.dev/icons?i=apple,python,bash,css,javascript,c#,cpp,php,typescript" alt="Programming Languages icons" style="width: 200px;" />
   </a>
 </div>
 <br>
 <div>
   <p>Technologies</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,cloudflare,d3,dotnet,gcp,react" alt="Technologies icons" />
+    <img src="https://skillicons.dev/icons?i=azure,cloudflare,d3,dotnet,gcp,react" alt="Technologies icons" style="width: 200px;" />
   </a>
 </div>
 <br>
 <div>
   <p>Tools</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bootstrap,git,github,htmx,java,jquery,kubernetes,mongodb,nodejs,windows" alt="Tools icons" />
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,git,github,htmx,java,jquery,kubernetes,mongodb,nodejs,windows" alt="Tools icons" style="width: 200px;" />
   </a>
 </div>
+
 
 
