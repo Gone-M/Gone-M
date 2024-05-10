@@ -13,7 +13,6 @@ When I'm not coding, you can find me hiking in the great outdoors 🌳, experime
 
 ## Skills
 
-### Programming Languages
 <div>
   <p>Programming Languages</p>
   <a href="https://skillicons.dev">
@@ -21,7 +20,6 @@ When I'm not coding, you can find me hiking in the great outdoors 🌳, experime
   </a>
 </div>
 
-### Technologies
 <div>
   <p>Technologies</p>
   <a href="https://skillicons.dev">
@@ -29,7 +27,6 @@ When I'm not coding, you can find me hiking in the great outdoors 🌳, experime
   </a>
 </div>
 
-### Tools
 <div>
   <p>Tools</p>
   <a href="https://skillicons.dev">
