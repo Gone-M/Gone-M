@@ -17,7 +17,7 @@ When I'm not coding, you can find me hiking in the great outdoors 🌳, experime
 <div>
   <p>Programming Languages</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,python,aws,bash,bootstrap,css,javascript,c#" alt="Skills icons" />
+    <img src="https://skillicons.dev/icons?i=apple,python,bash,css,javascript,c#" alt="Programming Languages icons" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@ When I'm not coding, you can find me hiking in the great outdoors 🌳, experime
 <div>
   <p>Technologies</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,azure,cpp,cloudflare,d3,dotnet,gcp,git" alt="Skills icons" />
+    <img src="https://skillicons.dev/icons?i=azure,cpp,cloudflare,d3,dotnet,gcp" alt="Technologies icons" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@ When I'm not coding, you can find me hiking in the great outdoors 🌳, experime
 <div>
   <p>Tools</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,htmx,java,jquery,kubernetes,mongodb,nodejs,windows" alt="Skills icons" />
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,git,github,htmx,java,jquery,kubernetes,mongodb,nodejs,windows" alt="Tools icons" />
   </a>
 </div>
 
