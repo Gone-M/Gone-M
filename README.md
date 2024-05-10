@@ -19,14 +19,14 @@ When I'm not coding, you can find me hiking in the great outdoors 🌳, experime
     <img src="https://skillicons.dev/icons?i=apple,python,bash,css,javascript,c#,cpp" alt="Programming Languages icons" />
   </a>
 </div>
-
+<br>
 <div>
   <p>Technologies</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,cloudflare,d3,dotnet,gcp,react" alt="Technologies icons" />
   </a>
 </div>
-
+<br>
 <div>
   <p>Tools</p>
   <a href="https://skillicons.dev">
