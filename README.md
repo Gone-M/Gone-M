@@ -7,7 +7,7 @@
     <img src="https://skillicons.dev/icons?i=apple,python,aws,bash,bootstrap,css,javascript,c#" alt="Skills icons" />
   </a>
 </div>
-
+<br>
 <div>
   <p>Technologies</p>
   <a href="https://skillicons.dev">
