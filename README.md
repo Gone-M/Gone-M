@@ -16,7 +16,7 @@ When I'm not coding, you can find me hiking in the great outdoors 🌳, experime
 <div>
   <p>Programming Languages</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,python,bash,css,javascript,c#,cpp" alt="Programming Languages icons" />
+    <img src="https://skillicons.dev/icons?i=apple,python,bash,css,javascript,c#,cpp,php,ts" alt="Programming Languages icons" />
   </a>
 </div>
 <br>
